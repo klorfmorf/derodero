@@ -2,4 +2,13 @@
 name = "derodero"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "crunch64>=0.6.2",
+    "lzkn64>=0.2.0",
+    "n64img>=0.3.3",
+    "ninja-syntax>=1.7.2",
+    "pygfxd>=1.0.5",
+    "requests>=2.34.2",
+    "spimdisasm>=1.42.4",
+    "splat64>=0.50.0",
+]

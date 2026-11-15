@@ -1,0 +1,1 @@
+Can shorten things like "allocate", "initialize", "procedure", to "alloc, "init" and "proc" etc. as it is obvious what is being meant
